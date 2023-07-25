@@ -1,0 +1,28 @@
+#ro{
+	text-align: center;
+	font-size: 30px;
+	border: solid;
+	border-radius: 50px;
+	background-color: black;
+	position: fixed;
+	top: 40%;
+	left: 60%;
+
+}
+#ro:hover{
+	color: red;
+}
+#ro1:hover{
+	color: green;
+
+}
+#ro1{
+	text-align: center;
+	font-size: 30px;
+	border: solid;
+	border-radius: 50px;
+	background-color: black;
+	position: fixed;
+	top: 40%;
+	left: 40%;
+}
